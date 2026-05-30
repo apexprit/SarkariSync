@@ -1,0 +1,46 @@
+{
+  "publishes": {
+    "gilded-tower-sprg": {
+      "siteUrl": "https://gilded-tower-sprg.here.now/",
+      "claimToken": "8999c33e797489c3c248d7ca6b3d4ae64b9a72fd36fcef95ec6a23b916ef8d83",
+      "claimUrl": "https://here.now/claim?slug=gilded-tower-sprg&token=8999c33e797489c3c248d7ca6b3d4ae64b9a72fd36fcef95ec6a23b916ef8d83",
+      "expiresAt": "2026-05-31T16:53:23.558Z"
+    },
+    "swift-opera-zhrg": {
+      "siteUrl": "https://swift-opera-zhrg.here.now/",
+      "claimToken": "347a974f35a2b4b7b8d133c739b601f3b97c3dc48fb4a2a34d31d947b470411f",
+      "claimUrl": "https://here.now/claim?slug=swift-opera-zhrg&token=347a974f35a2b4b7b8d133c739b601f3b97c3dc48fb4a2a34d31d947b470411f",
+      "expiresAt": "2026-05-31T17:02:38.333Z"
+    },
+    "quiet-mudra-9rfy": {
+      "siteUrl": "https://quiet-mudra-9rfy.here.now/",
+      "claimToken": "54f11f0d9830aea250884961765f7e518f89466a1452cb168beb65500a9319ae",
+      "claimUrl": "https://here.now/claim?slug=quiet-mudra-9rfy&token=54f11f0d9830aea250884961765f7e518f89466a1452cb168beb65500a9319ae",
+      "expiresAt": "2026-05-31T17:10:14.697Z"
+    },
+    "sleek-lasso-j5r3": {
+      "siteUrl": "https://sleek-lasso-j5r3.here.now/",
+      "claimToken": "6a01c6642451278796a8556dadb0a4c61c95f2f87942798a44ca1a1457bf6031",
+      "claimUrl": "https://here.now/claim?slug=sleek-lasso-j5r3&token=6a01c6642451278796a8556dadb0a4c61c95f2f87942798a44ca1a1457bf6031",
+      "expiresAt": "2026-05-31T17:24:50.050Z"
+    },
+    "stellar-igloo-ss2f": {
+      "siteUrl": "https://stellar-igloo-ss2f.here.now/",
+      "claimToken": "ce4312d862bc802355c803a9340dfedf59cd780b10ede4af4fc0fe82ac4a4849",
+      "claimUrl": "https://here.now/claim?slug=stellar-igloo-ss2f&token=ce4312d862bc802355c803a9340dfedf59cd780b10ede4af4fc0fe82ac4a4849",
+      "expiresAt": "2026-05-31T17:35:20.557Z"
+    },
+    "azure-tropic-6ynx": {
+      "siteUrl": "https://azure-tropic-6ynx.here.now/",
+      "claimToken": "c08c15cc11cb2aa1a3e2f47cbf1501692819577cfb1356b22476aeb3be3b31f9",
+      "claimUrl": "https://here.now/claim?slug=azure-tropic-6ynx&token=c08c15cc11cb2aa1a3e2f47cbf1501692819577cfb1356b22476aeb3be3b31f9",
+      "expiresAt": "2026-05-31T18:03:33.605Z"
+    },
+    "silent-salmon-tvkt": {
+      "siteUrl": "https://silent-salmon-tvkt.here.now/",
+      "claimToken": "5c754115cc1d24461f89fd0db1a812384290d701ae2d48fea9977ca8f0649898",
+      "claimUrl": "https://here.now/claim?slug=silent-salmon-tvkt&token=5c754115cc1d24461f89fd0db1a812384290d701ae2d48fea9977ca8f0649898",
+      "expiresAt": "2026-05-31T19:31:49.120Z"
+    }
+  }
+}

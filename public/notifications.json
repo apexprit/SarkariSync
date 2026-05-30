@@ -1,0 +1,82 @@
+[
+    {
+        "title": "\u0930\u0947\u0932\u0935\u0947 \u092d\u0930\u094d\u0924\u0940 \u092c\u094b\u0930\u094d\u0921, \u091a\u0902\u0921\u0940\u0917\u095dRailway Recruitment Board, Chandigarh",
+        "organization": "RRB",
+        "link": "index.php",
+        "date": "2026-05-31",
+        "qualification": "ITI/Diploma/Degree",
+        "type": "Railways"
+    },
+    {
+        "title": "Recruitment Notices",
+        "organization": "RRB",
+        "link": "employment-notices.php",
+        "date": "2026-05-31",
+        "qualification": "ITI/Diploma/Degree",
+        "type": "Railways"
+    },
+    {
+        "title": "CEN 01/2024 - (ALP)",
+        "organization": "RRB",
+        "link": "https://rrb.digialm.com/EForms/configuredHtml/1181/91195/login.html",
+        "date": "2026-05-31",
+        "qualification": "ITI/Diploma/Degree",
+        "type": "Railways"
+    },
+    {
+        "title": "CEN 02/2024 - (Technician-I)",
+        "organization": "RRB",
+        "link": "https://rrb.digialm.com/EForms/configuredHtml/2667/92088/login.html",
+        "date": "2026-05-31",
+        "qualification": "ITI/Diploma/Degree",
+        "type": "Railways"
+    },
+    {
+        "title": "CEN 02/2024 - (Technician-III)",
+        "organization": "RRB",
+        "link": "https://rrb.digialm.com/EForms/configuredHtml/2667/92089/login.html",
+        "date": "2026-05-31",
+        "qualification": "ITI/Diploma/Degree",
+        "type": "Railways"
+    },
+    {
+        "title": "Careers",
+        "organization": "IBPS",
+        "link": "https://www.ibps.in/index.php/careers/",
+        "date": "2026-05-31",
+        "qualification": "Graduate",
+        "type": "Banking"
+    },
+    {
+        "title": "Careers",
+        "organization": "IBPS",
+        "link": "https://www.ibps.in/index.php/careers/",
+        "date": "2026-05-31",
+        "qualification": "Graduate",
+        "type": "Banking"
+    },
+    {
+        "title": "CRP RRBs",
+        "organization": "IBPS",
+        "link": "https://www.ibps.in/index.php/regional-rural-bank/",
+        "date": "2026-05-31",
+        "qualification": "Graduate",
+        "type": "Banking"
+    },
+    {
+        "title": "CRP CSA(Customer Service Associates)",
+        "organization": "IBPS",
+        "link": "https://www.ibps.in/index.php/clerical-cadre/",
+        "date": "2026-05-31",
+        "qualification": "Graduate",
+        "type": "Banking"
+    },
+    {
+        "title": "CRP PO/MTs",
+        "organization": "IBPS",
+        "link": "https://www.ibps.in/index.php/management-trainees/",
+        "date": "2026-05-31",
+        "qualification": "Graduate",
+        "type": "Banking"
+    }
+]

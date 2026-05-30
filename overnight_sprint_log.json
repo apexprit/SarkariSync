@@ -1,0 +1,17 @@
+[
+  {
+    "task": "frontend",
+    "output": "API Error: Failed to parse JSON",
+    "exit_code": 1
+  },
+  {
+    "task": "scrapers",
+    "output": "API Error: Failed to parse JSON",
+    "exit_code": 1
+  },
+  {
+    "task": "bot",
+    "output": "API Error: Failed to parse JSON",
+    "exit_code": 1
+  }
+]
